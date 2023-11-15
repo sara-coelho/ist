@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Signup</title>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="assets/styles/styles_login_signup.css">
+        <link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet'>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <script src="https://unpkg.com/just-validate@latest/dist/just-validate.production.min.js" defer></script>
+        <script src="assets/database/validation.js" defer></script>
+        <style>
+            .just-validate-error-label{
+                font-size: 12px;
+                margin-bottom: 15px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="row">
+            <div class="signupDesign"></div>
+            <div class="signupForm">
+                <div class="inSignForm">
+                    <h1>Bem Vind@!</h1>
+                    <form action="assets/database/process-signup.php" method="post" id="signup" novalidate>
+                        <div>
+                            <label for="name">Nome Completo</label>
+                            <input type="text" name="user" id="user">
+                        </div>
+                        <div>
+                            <label for="email">Endereço de Email</label>
+                            <input type="email" name="email" id="email">
+                        </div>
+                        <div>
+                            <label for="password">Palavra Passe</label>
+                            <input type="password" name="password" id="password">
+                        </div>
+                        <div>
+                            <label for="password_confirmation">Confirmar Palavra Passe</label>
+                            <input type="password" name="password_confirmation" id="password_confirmation">
+                        </div>
+                        <button>SIGN UP</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
