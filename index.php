@@ -40,7 +40,7 @@ if(isset($_SESSION["user_id"])){
         <h1>Home</h1>
         <?php if (isset($user)):?>
             <p>Hello, <?= htmlspecialchars($user["user"])?></p>
-            <a href="logout.php">Log Out</a>
+            <a href="assets/database/logout.php">Log Out</a>
             <form method="post" action="assets/database/qr_handler.php">
                 <div class="qrcodeReader">
                     <div id="reader"></div>
