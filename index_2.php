@@ -8,7 +8,7 @@
         <table style="width: 100%;">
             <tr>
                 <td style="text-align: left;">
-                    <h1 style="font-size: 2em;" class="titulo-roxo">O que é a JOB2BE<span style="font-size: 3em;">?</span></h1>
+                    <h1 style="font-size: 2em;" class="titulo-roxo">O que é a JOB2BE<span style="font-size: 10em;">?</span></h1>
                     <div class="item">
                         <button class="menu-button"><a href="sobre.php">Saber +</a></button>
                     </div>
