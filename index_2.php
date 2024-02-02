@@ -9,7 +9,9 @@
             <tr>
                 <td style="text-align: left;">
                     <h1 style="font-size: 2em;" class="titulo-roxo">O que é a JOB2BE?</h1>
-                    <button class="menu-button"><a href="sobre.php">saber +</a></button>
+                    <div class="item">
+                        <button class="menu-button"><a href="sobre.php">Saber +</a></button>
+                    </div>
                 </td>
                 <td style="text-align: right;">
                     <p class="texto-roxo">
