@@ -10,7 +10,7 @@
                 <td style="text-align: left;">
                     <h1 style="font-size: 2em;" class="titulo-roxo">O que é a JOB2BE?</h1>
                     <div class="item">
-                        <button class="menu-button"><a href="sobre.php">Saber +</a></button>
+                        <button class="menu-button"><a href="sobre.php" class="menu-link">Saber +</a></button>
                     </div>
                 </td>
                 <td style="text-align: right;">
