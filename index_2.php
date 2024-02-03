@@ -8,9 +8,9 @@
         <table style="width: 100%;">
             <tr>
                 <td style="text-align: left;">
-                    <h1 style="font-size: 2em;" class="titulo-roxo">
-                        O que é a <span style="font-weight: 200;">O que é a</span> JOB2BE?
-                    </h1>
+                    <div class="imagem">
+                        <img src="assets/img/o_que_e_branco.png">
+                    </div>
                     <div class="item">
                         <a href="sobre.php">
                             <button class="menu-button" style="background-color: #3F165B; color: #FFFFFF;">saber +</button>
