@@ -13,7 +13,7 @@
                     </div>
                     <div class="item">
                         <a href="sobre.php">
-                            <button class="menu-button" style="background-color: #3F165B; color: #FFFFFF;">saber +</button>
+                            <button class="menu-button" style="background-color: #3F165B; color: #FFFFFF; border-radius: 15px;">saber +</button>
                         </a>
                     </div>
                 </td>
