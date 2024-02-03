@@ -9,7 +9,7 @@
             <tr>
                 <td style="text-align: left;">
                     <h1 style="font-size: 2em;" class="titulo-roxo">
-                        O que é a <strong>JOB2BE</strong>?
+                        O que é a <span style="font-weight: 200;">O que é a</span> JOB2BE?
                     </h1>
                     <div class="item">
                         <button class="menu-button"><a href="sobre.php">Saber +</a></button>
