@@ -12,8 +12,10 @@
                         O que é a <span style="font-weight: 200;">O que é a</span> JOB2BE?
                     </h1>
                     <div class="item">
-                                <a href="sobre.php"> <button class="menu-button">Saber + </button> </a>
-                        </div>
+                        <a href="sobre.php">
+                            <button class="menu-button" style="background-color: #3F165B; color: #FFFFFF;">saber +</button>
+                        </a>
+                    </div>
                 </td>
                 <td style="text-align: right;">
                     <p class="texto-roxo">
